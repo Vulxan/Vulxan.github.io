@@ -1,2 +1,2 @@
-# Vulxan.github.io
-VULXAN | OFFICIAL
+# VULXAN.COM
+VULXAN.COM | OFFICIAL
