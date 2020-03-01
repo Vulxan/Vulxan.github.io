@@ -1303,3 +1303,5 @@ const canvas = new Canvas({
   pauseInBackground: true,
   entities: [new Matrix()]
 });
+
+// ...
